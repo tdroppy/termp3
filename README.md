@@ -35,6 +35,7 @@ $ ./bin/pip install -r requirements.txt    #Installs libraries
 
 ### To Run:
 Option 1: Use the convenient bash script provided to you :D
+
 Option 2: $ ./bin/python -m main
 
 In the program, the "P" button plays the track
