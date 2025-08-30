@@ -24,8 +24,11 @@ Installation is fairly simple:
 In your terminal use the following commands
 
 $ git clone https://github.com/tdroppy/termp3.git
+
 $ cd termp3
+
 $ python -m venv ./            # Creates a virtual environment
+
 $ ./bin/pip install -r requirements.txt    #Installs libraries
 
 ## Usage
